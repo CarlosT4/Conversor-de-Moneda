@@ -80,7 +80,7 @@ conversorMoneda/
 Para ejecutar la aplicación:
 
 ```bash
-./gradlew run
+./gradlew run --console=plain
 ```
 
 ---
